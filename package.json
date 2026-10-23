@@ -1,0 +1,12 @@
+{
+  "name": "row-irc-server",
+  "version": "1.0.0",
+  "description": "Fast WebSocket IRC server for RowProject Minecraft client",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
